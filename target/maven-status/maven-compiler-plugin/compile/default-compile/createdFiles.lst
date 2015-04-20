@@ -1,0 +1,8 @@
+com/cheerlabs/restbase/core/Contacts.class
+com/cheerlabs/restbase/core/Main.class
+com/cheerlabs/restbase/persistence/ContactDao.class
+com/cheerlabs/restbase/services/ContactService.class
+com/cheerlabs/restbase/services/ContactServiceImpl.class
+com/cheerlabs/restbase/core/ContactAttrs.class
+com/cheerlabs/restbase/persistence/ContactDaoImpl.class
+com/cheerlabs/restbase/core/Contact.class
